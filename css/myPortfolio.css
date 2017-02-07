@@ -107,7 +107,7 @@ body{
 .img-responsive{
   width: 300px; 
   height: auto; 
-  margin-left: 5%;
+  padding-bottom: 5%;
 }
 
 .thumbnail>a>p{
