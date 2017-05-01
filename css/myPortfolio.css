@@ -122,6 +122,12 @@ a {
 
 /*PAGE TWO*/
 
+@media screen and (max-width: 992px ){
+    .right-p2{
+        text-align: right;
+    }
+}
+
 .pageTwo {
     background-color: #ffffff;
     margin-top: 0px;
