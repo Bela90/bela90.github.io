@@ -18,6 +18,15 @@
     box-shadow: none;
 }
 
+@media screen and (max-width: 767px) {
+    .navbar-brand,
+    .navbar-nav > li > a {
+        font-size: 12px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
 .block {
     padding-top: 7%;
 }
